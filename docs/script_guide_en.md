@@ -1,5 +1,7 @@
 # Script Guide
 
+[中文说明](script_guide_zh.md) | [English](script_guide_en.md)
+
 This document provides an English description of the retained scripts in this repository so that the code entry points can be understood quickly after release.
 
 ## 1. Data-related scripts
