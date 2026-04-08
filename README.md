@@ -1,5 +1,7 @@
 # PCM 增强型能量桩代理建模与材料优化代码仓库
 
+[中文说明](README.md) | [English](README_EN.md)
+
 本仓库整理了论文对应的核心代码与必要数据，目标是提供一个适合发布到 GitHub 的干净版本，便于复现实验主流程。
 
 当前仓库保留了以下内容：
@@ -42,7 +44,8 @@
 ├── run_pcm_optimization_case.py
 ├── results_figures/
 ├── docs/
-│   └── script_guide_zh.md
+│   ├── script_guide_zh.md
+│   └── script_guide_en.md
 └── src/
     ├── data/
     ├── eval/
@@ -145,6 +148,7 @@ python run_pcm_optimization_case.py ^
 每个脚本的作用、输入、输出和推荐使用时机，见：
 
 - [docs/script_guide_zh.md](docs/script_guide_zh.md)
+- [docs/script_guide_en.md](docs/script_guide_en.md)
 
 ## 5. 说明
 

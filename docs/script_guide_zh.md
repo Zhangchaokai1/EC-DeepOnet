@@ -1,5 +1,7 @@
 # 脚本说明
 
+[中文说明](script_guide_zh.md) | [English](script_guide_en.md)
+
 本文档使用中文说明当前仓库中每个保留脚本的作用，便于后续发布到 GitHub 后快速理解代码入口。
 
 ## 1. 数据相关脚本
